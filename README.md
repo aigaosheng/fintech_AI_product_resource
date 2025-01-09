@@ -12,5 +12,8 @@
 # Recommendation
 1. **recommenders**, Recommenders objective is to assist researchers, developers and enthusiasts in prototyping, experimenting with and bringing to production a range of classic and state-of-the-art recommendation systems. (https://github.com/recommenders-team/recommenders/tree/main)
 
+# Name entity
+1. **gliner**, (https://github.com/urchade/GLiNER)
+
 # IAB Taxonomies: 
 https://github.com/InteractiveAdvertisingBureau/Taxonomies/tree/main/Content%20Taxonomies
