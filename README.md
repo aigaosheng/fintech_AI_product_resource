@@ -46,6 +46,7 @@ User profiling is to develop structued data to characterize the users in your pl
 - A Forecaster object in the skforecast library is a comprehensive container that provides essential functionality and methods for training a forecasting model and generating predictions for future points in time. [skforecast](https://github.com/skforecast/skforecast)
 - SAMformer is a lightweight transformer architecture designed for time series forecasting. It uniquely integrates Sharpness-Aware Minimization (SAM) with a Channel-Wise Attention mechanism. [samformer](https://github.com/romilbert/samformer)
 - StockLlama is a time series forecasting model based on Llama, enhanced with custom embeddings for improved accuracy. [StockLlama](https://github.com/LegallyCoder/StockLlama)
+- SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. [Shab] (https://github.com/shap/shap)
 
 # Embodied AI 
 - Genesis is a physics platform designed for general-purpose Robotics/Embodied AI/Physical AI applications. It is simultaneously multiple things. [Genesis-Embodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
@@ -58,6 +59,7 @@ User profiling is to develop structued data to characterize the users in your pl
 - DI-engine is a generalized decision intelligence engine for PyTorch and JAX. It provides python-first and asynchronous-native task and middleware abstractions, and modularly integrates several of the most important decision-making concepts: Env, Policy and Model. Based on the above mechanisms, DI-engine supports various deep reinforcement learning algorithms with superior performance, high efficiency, well-organized documentation and unittest. [DI-engine](https://github.com/opendilab/DI-engine)
 - AnyTrading is a collection of OpenAI Gym environments for reinforcement learning-based trading algorithms. [AnyTrading](https://github.com/AminHP/gym-anytrading)
 - MtSim is a simulator for the MetaTrader 5 trading platform alongside an OpenAI Gym environment for reinforcement learning-based trading algorithms. MetaTrader 5 is a multi-asset platform that allows trading Forex, Stocks, Crypto, and Futures. It is one of the most popular trading platforms and supports numerous useful features, such as opening demo accounts on various brokers. [gym-mtsim](https://github.com/AminHP/gym-mtsim)
+- [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading)
 
 - A curated list of awesome machine learning frameworks, libraries and software (by language) [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
