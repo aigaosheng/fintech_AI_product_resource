@@ -52,6 +52,7 @@ User profiling is to develop structued data to characterize the users in your pl
 
 # Tool collection
 - SQL in Python Develop. DuckDB is a high-performance analytical database system. It is designed to be fast, reliable, portable, and easy to use. DuckDB provides a rich SQL dialect, with support far beyond basic SQL. DuckDB supports arbitrary and nested correlated subqueries, window functions, collations, complex types (arrays, structs, maps). [DuckDB](https://github.com/duckdb/duckdb)
+- SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. [Shab] (https://github.com/shap/shap)
 
 # Reinforcement learning (RL)
 - Stable Baselines3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch.[Stable Baselines3 (SB3)](https://github.com/DLR-RM/stable-baselines3)
