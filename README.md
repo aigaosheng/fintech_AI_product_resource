@@ -10,6 +10,8 @@
 
 - Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile. [KLineChart](https://github.com/klinecharts/KLineChart)
 
+- [Get SEC forms](https://github.com/dgunning/edgartools)
+
 # User profiling and Taxonomies
 User profiling is to develop structued data to characterize the users in your platform, e.g. favorite, activity, behaviors, etc. The field should be human-understandable and explainable, mostly defined at semantic level. A lot of data engineering and data science efforts must be done, e.g. data aggregate, user generated content processing leveraging ML or AI models, et al. It must be tailored to your actual business platform and what user data is collected. 
 
@@ -62,10 +64,17 @@ User profiling is to develop structued data to characterize the users in your pl
 - [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading)
 
 - A curated list of awesome machine learning frameworks, libraries and software (by language) [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [RL](https://gymnasium.farama.org/)
+- [RL](https://github.com/opendilab/DI-engine/tree/main)
 
 # Graph
 - igraph is a library for creating and manipulating graphs. It is intended to be as powerful (ie. fast) as possible to enable the analysis of large graphs [igraph](https://github.com/igraph/python-igraph)
 
+# Audio/Video Demo
+- [FastRTC, build speech/video interactive demo](https://fastrtc.org/)
+
+# Robotic
+- [Boston dynamics SPOT SDK](https://github.com/boston-dynamics/spot-sdk?tab=readme-ov-file)
 # Miscs
 - [algorithmic_trading_book](https://github.com/zslucky/algorithmic_trading_book)
 - [Trading-Strategies](https://github.com/chenenen13/Trading-Strategies)
