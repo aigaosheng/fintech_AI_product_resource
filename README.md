@@ -31,6 +31,7 @@ User profiling is to develop structued data to characterize the users in your pl
 - DSPy is the framework for programming—rather than prompting—language models. It allows you to iterate fast on building modular AI systems and offers algorithms for optimizing their prompts and weights, whether you're building simple classifiers, sophisticated RAG pipelines, or Agent loops. [dspy](https://github.com/stanfordnlp/dspy), 
 - TextGrad is a powerful framework building automatic ``differentiation'' via text. TextGrad implements backpropagation through text feedback provided by LLMs, strongly building on the gradient metaphor. [textgrad](https://github.com/zou-group/textgrad)
   - [awesome-LangGraph] (https://github.com/von-development/awesome-LangGraph)
+  - [OpenDeepsearch] (https://github.com/sentient-agi/OpenDeepSearch)
 
 # Trading bots
 - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.[ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
