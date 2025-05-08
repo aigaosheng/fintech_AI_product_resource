@@ -11,7 +11,14 @@
 - Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile. [KLineChart](https://github.com/klinecharts/KLineChart)
 
 - [Get SEC forms](https://github.com/dgunning/edgartools)
-- [TradingView Screener] (https://github.com/shner-elmo/TradingView-Screener)
+- [Numerai: A global artificial intelligence tournament to predict the stock market.](https://github.com/numerai)
+- [tradingview-screener is a Python package that allows you to create custom stock screeners using TradingView's official API](https://github.com/shner-elmo/TradingView-Screener)
+- [Awesome-quant: A curated list of insanely awesome libraries, packages and resources for Quants ](https://github.com/wilsonfreitas/awesome-quant)
+- [Openbb: The first financial Platform that is free and fully open source.](https://github.com/OpenBB-finance/OpenBB)
+- [BT: backtest](https://github.com/pmorissette/bt)
+- [findatapy creates an easy to use Python API to download market data from many sources including ALFRED/FRED, Bloomberg, Yahoo, Google etc.](https://github.com/cuemacro/findatapy)
+- [finvizfinance is a package which collects financial information from FinViz website](https://github.com/lit26/finvizfinance)
+
 
 # User profiling and Taxonomies
 User profiling is to develop structued data to characterize the users in your platform, e.g. favorite, activity, behaviors, etc. The field should be human-understandable and explainable, mostly defined at semantic level. A lot of data engineering and data science efforts must be done, e.g. data aggregate, user generated content processing leveraging ML or AI models, et al. It must be tailored to your actual business platform and what user data is collected. 
@@ -30,8 +37,8 @@ User profiling is to develop structued data to characterize the users in your pl
 # LLM develop
 - DSPy is the framework for programming—rather than prompting—language models. It allows you to iterate fast on building modular AI systems and offers algorithms for optimizing their prompts and weights, whether you're building simple classifiers, sophisticated RAG pipelines, or Agent loops. [dspy](https://github.com/stanfordnlp/dspy), 
 - TextGrad is a powerful framework building automatic ``differentiation'' via text. TextGrad implements backpropagation through text feedback provided by LLMs, strongly building on the gradient metaphor. [textgrad](https://github.com/zou-group/textgrad)
-  - [awesome-LangGraph] (https://github.com/von-development/awesome-LangGraph)
-  - [OpenDeepsearch] (https://github.com/sentient-agi/OpenDeepSearch)
+- [MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines.](https://github.com/microsoft/markitdown)
+- [A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with LangGraph.](https://github.com/von-development/awesome-LangGraph)
 
 # Trading bots
 - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.[ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
@@ -52,7 +59,7 @@ User profiling is to develop structued data to characterize the users in your pl
 - SAMformer is a lightweight transformer architecture designed for time series forecasting. It uniquely integrates Sharpness-Aware Minimization (SAM) with a Channel-Wise Attention mechanism. [samformer](https://github.com/romilbert/samformer)
 - StockLlama is a time series forecasting model based on Llama, enhanced with custom embeddings for improved accuracy. [StockLlama](https://github.com/LegallyCoder/StockLlama)
 - SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. [Shab] (https://github.com/shap/shap)
-- 
+- [jina-reranker-m0 is our new multilingual multimodal reranker model for ranking visual documents](https://huggingface.co/jinaai/jina-reranker-m0)
 
 # Embodied AI 
 - Genesis is a physics platform designed for general-purpose Robotics/Embodied AI/Physical AI applications. It is simultaneously multiple things. [Genesis-Embodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
@@ -79,7 +86,20 @@ User profiling is to develop structued data to characterize the users in your pl
 
 # Robotic
 - [Boston dynamics SPOT SDK](https://github.com/boston-dynamics/spot-sdk?tab=readme-ov-file)
+
+# AI security
+- [cleverhans: Python library to benchmark machine learning systems' vulnerability to adversarial examples.](https://github.com/cleverhans-lab/cleverhans)
+- [A curation of awesome tools, documents and projects about LLM Security](https://github.com/corca-ai/awesome-llm-security)
+- [ACL 2024 Tutorial: Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/)
+
 # Miscs
 - [algorithmic_trading_book](https://github.com/zslucky/algorithmic_trading_book)
 - [Trading-Strategies](https://github.com/chenenen13/Trading-Strategies)
 - [151 Trading Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3247865)
+- [Python For Finance Cookbook - Code Repository](https://github.com/PacktPublishing/Python-for-Finance-Cookbook)
+- [mplementation of code snippets and exercises from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado.](https://github.com/emoen/Machine-Learning-for-Asset-Managers)
+- [Computational-Finance-Course](https://github.com/LechGrzelak/Computational-Finance-Course)
+- [Self-taught training materials in quantitative finance](https://github.com/PythonCharmers/QuantFinance)
+[This course is designed to be an introduction to numerical computing and data visualization in Python](https://github.com/jpmorganchase/python-training)
+- [quantecon.org/lectures/](https://quantecon.org/lectures/)
+- [Quantitative-Notebooks](https://github.com/LongOnly/Quantitative-Notebooks)
