@@ -18,6 +18,7 @@
 - [BT: backtest](https://github.com/pmorissette/bt)
 - [findatapy creates an easy to use Python API to download market data from many sources including ALFRED/FRED, Bloomberg, Yahoo, Google etc.](https://github.com/cuemacro/findatapy)
 - [finvizfinance is a package which collects financial information from FinViz website](https://github.com/lit26/finvizfinance)
+- [AKShare:: simplify the process of fetching financial data](https://github.com/akfamily/akshare)
 
 
 # User profiling and Taxonomies
