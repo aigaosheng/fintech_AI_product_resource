@@ -19,6 +19,7 @@
 - [findatapy creates an easy to use Python API to download market data from many sources including ALFRED/FRED, Bloomberg, Yahoo, Google etc.](https://github.com/cuemacro/findatapy)
 - [finvizfinance is a package which collects financial information from FinViz website](https://github.com/lit26/finvizfinance)
 - [AKShare:: simplify the process of fetching financial data](https://github.com/akfamily/akshare)
+- - [The Quantreo Python library is designed to simplify the workflow of quantitative traders by offering powerful tools for feature engineering, target engineering, feature selection, and much more.](https://docs.quantreo.com/tutorials/data-aggregation-bar-building/)
 
 
 # User profiling and Taxonomies
