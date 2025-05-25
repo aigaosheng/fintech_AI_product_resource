@@ -94,10 +94,6 @@ User profiling is to develop structued data to characterize the users in your pl
 - [A curation of awesome tools, documents and projects about LLM Security](https://github.com/corca-ai/awesome-llm-security)
 - [ACL 2024 Tutorial: Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/)
 
-# UI
-- [Reflex is a new open-source framework that empowers developers to build full-stack web applications entirely in pure Python—no JavaScript or web development experience required](https://github.com/reflex-dev)
-- [A faster way to build and share data apps.](https://github.com/streamlit/streamlit)
-
 # Miscs
 - [algorithmic_trading_book](https://github.com/zslucky/algorithmic_trading_book)
 - [Trading-Strategies](https://github.com/chenenen13/Trading-Strategies)
@@ -109,4 +105,3 @@ User profiling is to develop structued data to characterize the users in your pl
 [This course is designed to be an introduction to numerical computing and data visualization in Python](https://github.com/jpmorganchase/python-training)
 - [quantecon.org/lectures/](https://quantecon.org/lectures/)
 - [Quantitative-Notebooks](https://github.com/LongOnly/Quantitative-Notebooks)
-
