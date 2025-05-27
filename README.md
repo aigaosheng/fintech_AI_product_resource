@@ -50,6 +50,14 @@ User profiling is to develop structued data to characterize the users in your pl
 - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL. [qlib](https://github.com/microsoft/qlib)
 - [AI4Finance-Foundation](https://github.com/AI4Finance-Foundation)
 - Lightning Fast AI Chatbot that Responds With Live Interactive Stock Charts, Financials, News, Screeners, and More. Powered by Llama3-70b on Groq, Vercel AI SDK, and TradingView Widgets. [stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq)
+- [Python Backtesting library for trading strategies](https://github.com/mementum/backtrader)
+- [LEAN is an event-driven, professional-caliber algorithmic trading platform built with a passion for elegant engineering and deep quant concept modeling. ](https://github.com/QuantConnect/Lean)
+- [Jesse is an advanced crypto trading framework that aims to simplify researching](https://github.com/jesse-ai/jesse)
+- [bt is a flexible backtesting framework for Python used to test quantitative trading strategies](https://github.com/pmorissette/bt)
+- [algo.py is a robust, Python-first algorithmic trading framework designed for traders, developers, and institutions to build, test, and deploy trading strategies with unparalleled speed and flexibility. ](https://github.com/himanshu2406/Algo.Py)
+- [Hummingbot is an open-source framework that helps you design and deploy automated trading strategies, or bots, that can run on many centralized or decentralized exchanges. ](https://github.com/hummingbot/hummingbot)
+- [vectorbt allows you to easily backtest strategies with a couple of lines of Python code.](https://github.com/polakowo/vectorbt)
+- [Algorithmic Trading in Python with Machine Learning](https://github.com/edtechre/pybroker)
 
 # LLM & ML used
 - Name entity extraction. GLiNER is a Named Entity Recognition (NER) model capable of identifying any entity type using a bidirectional transformer encoder (BERT-like). It provides a practical alternative to traditional NER models, which are limited to predefined entities, and Large Language Models (LLMs) that, despite their flexibility, are costly and large for resource-constrained scenarios. [gliner](https://github.com/urchade/GLiNER)
