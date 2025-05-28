@@ -19,7 +19,7 @@
 - [findatapy creates an easy to use Python API to download market data from many sources including ALFRED/FRED, Bloomberg, Yahoo, Google etc.](https://github.com/cuemacro/findatapy)
 - [finvizfinance is a package which collects financial information from FinViz website](https://github.com/lit26/finvizfinance)
 - [AKShare:: simplify the process of fetching financial data](https://github.com/akfamily/akshare)
-- - [The Quantreo Python library is designed to simplify the workflow of quantitative traders by offering powerful tools for feature engineering, target engineering, feature selection, and much more.](https://docs.quantreo.com/tutorials/data-aggregation-bar-building/)
+- [The Quantreo Python library is designed to simplify the workflow of quantitative traders by offering powerful tools for feature engineering, target engineering, feature selection, and much more.](https://docs.quantreo.com/tutorials/data-aggregation-bar-building/)
 
 
 # User profiling and Taxonomies
@@ -117,4 +117,5 @@ User profiling is to develop structued data to characterize the users in your pl
 [This course is designed to be an introduction to numerical computing and data visualization in Python](https://github.com/jpmorganchase/python-training)
 - [quantecon.org/lectures/](https://quantecon.org/lectures/)
 - [Quantitative-Notebooks](https://github.com/LongOnly/Quantitative-Notebooks)
+- [This Python training is for JPMorgan business analysts and traders, as well as select clients.](https://github.com/jpmorganchase/python-training)
 
