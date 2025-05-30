@@ -118,4 +118,4 @@ User profiling is to develop structued data to characterize the users in your pl
 - [quantecon.org/lectures/](https://quantecon.org/lectures/)
 - [Quantitative-Notebooks](https://github.com/LongOnly/Quantitative-Notebooks)
 - [This Python training is for JPMorgan business analysts and traders, as well as select clients.](https://github.com/jpmorganchase/python-training)
-
+- [Experimental solutions to selected exercises from the book Advances in Financial Machine Learning by Marcos Lopez De Prado](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises), [All the experimental answers for exercises ](https://github.com/boyboi86/AFML), [Notes & Solutions to Advances in Financial Machine Learning](https://github.com/doda/advances-in-financial-ml-notes), [Python implementations of Machine Learning helper functions for Quantiative Finance based on books, Advances in Financial Machine Learning and Machine Learning for Asset Managers ](https://github.com/jjakimoto/finance_ml)
