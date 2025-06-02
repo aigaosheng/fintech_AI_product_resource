@@ -41,6 +41,7 @@ User profiling is to develop structued data to characterize the users in your pl
 - TextGrad is a powerful framework building automatic ``differentiation'' via text. TextGrad implements backpropagation through text feedback provided by LLMs, strongly building on the gradient metaphor. [textgrad](https://github.com/zou-group/textgrad)
 - [MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines.](https://github.com/microsoft/markitdown)
 - [A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with LangGraph.](https://github.com/von-development/awesome-LangGraph)
+- [AgenticSeek: Private, Local Manus Alternative.](https://github.com/Fosowl/agenticSeek)
 
 # Trading bots
 - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.[ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
