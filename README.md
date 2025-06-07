@@ -42,6 +42,7 @@ User profiling is to develop structued data to characterize the users in your pl
 - [MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines.](https://github.com/microsoft/markitdown)
 - [A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with LangGraph.](https://github.com/von-development/awesome-LangGraph)
 - [AgenticSeek: Private, Local Manus Alternative.](https://github.com/Fosowl/agenticSeek)
+- [Opik helps you build, evaluate, and optimize LLM systems that run better, faster, and cheaper](https://github.com/comet-ml/opik)
 
 # Trading bots
 - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.[ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
